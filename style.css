@@ -1,0 +1,59 @@
+body {
+      margin: 0;
+      text-rendering: optimizeLegibility;
+      /* font-family: Georgia, 'Times New Roman', Times, serif; */
+      font-size: 20px;
+}
+
+.container-sm {
+    max-width: 800px;
+    margin:0;
+}
+
+h1{
+  text-decoration: #F2827F underline;
+  text-underline-offset: 6.5px;
+  font-weight: bold;
+  font-family: 'Libre Baskerville', serif;
+  letter-spacing: .1rem;
+}
+.bio{
+  font-family: 'Libre Baskerville', serif;
+}
+.icon-link{
+  color: #F2827F;
+  text-decoration: #F2827F underline;
+}
+.icon-link:hover{
+  color: #f8a9a6;
+  text-decoration: #f8a9a6 underline;
+}
+iframe, img {
+        max-width: 100%;
+    }
+.headline{
+  font-family:'Libre Baskerville', serif;
+  /* color:#6A9033; */
+  color:black;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-decoration: none;
+  font-size: 22px;
+}
+.headline:hover{
+  color: #5c5c5c;
+}
+
+.description{
+  font-family: 'Open Sans', sans-serif;
+  color:rgb(101, 100, 100);
+  font-size: 17px;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+mark {
+  text-decoration: #F1BE48 wavy underline;
+  background-color: white;
+  color:rgb(101, 100, 100);
+  /* font-size: 16px; */
+}
