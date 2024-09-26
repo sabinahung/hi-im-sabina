@@ -61,3 +61,9 @@ mark {
   color:rgb(101, 100, 100);
   /* font-size: 16px; */
 }
+
+@media (max-width: 640px) {
+  .headline > a {
+    /* margin-bottom: 20svh; */
+    padding-top: 20px;
+  }}
