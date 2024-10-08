@@ -16,9 +16,11 @@ h1{
   font-weight: bold;
   font-family: 'Libre Baskerville', serif;
   letter-spacing: .1rem;
+  margin-bottom: 1em;
 }
 .bio{
   font-family: 'Libre Baskerville', serif;
+  margin-bottom: 1.5em;
 }
 .icon-link{
   color: #F2827F;
